@@ -2,6 +2,8 @@
 
 A Gemini-inspired AI chatbot built using **React** and integrated with **Gemini API** (Google's generative AI). This project replicates the core features of Gemini such as real-time response streaming, bolded highlights, and chat history.
 
+https://javidbaghir-gemini.netlify.app/
+
 ## 🚀 Features
 
 - ✅ Real-time AI response streaming (typing effect)
