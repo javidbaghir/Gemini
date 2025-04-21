@@ -1,12 +1,35 @@
-# React + Vite
+# Gemini Clone 🧠✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Gemini-inspired AI chatbot built using **React** and integrated with **Gemini API** (Google's generative AI). This project replicates the core features of Gemini such as real-time response streaming, bolded highlights, and chat history.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Real-time AI response streaming (typing effect)
+- ✅ Supports bold (**text**) formatting using markdown-style syntax
+- ✅ Maintains recent prompt history
+- ✅ Beautiful, clean UI using modern React techniques
+- ✅ Customizable and extendable for your own use
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1430" alt="Screenshot 2025-04-21 at 15 54 49" src="https://github.com/user-attachments/assets/9b7d7ad5-bbcf-4740-b61f-ed2d9015c15a" />
+<img width="899" alt="Screenshot 2025-04-21 at 16 03 13" src="https://github.com/user-attachments/assets/3af8e4b2-ea30-4dc0-b817-d8e18ff1b55a" />
+<img width="1435" alt="Screenshot 2025-04-21 at 16 03 32" src="https://github.com/user-attachments/assets/45484e0a-3519-4d58-93e1-b3b068380e26" />
+
+## ⚙️ Technologies Used
+
+- React
+- JavaScript (ES6+)
+- Gemini API
+- Context API
+- CSS
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+```bash
+https://github.com/javidbaghir/Gemini-Clone.git
+cd gemini-clone
+npm install
+npm start
