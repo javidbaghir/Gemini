@@ -32,7 +32,6 @@ A Gemini-inspired AI chatbot built using **React** and integrated with **Gemini 
 To run this project locally:
 
 ```bash
-https://github.com/javidbaghir/Gemini-Clone.git
-cd gemini-clone
+https://github.com/javidbaghir/Gemini.git
 npm install
 npm start
