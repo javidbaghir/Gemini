@@ -9,12 +9,15 @@ A Gemini-inspired AI chatbot built using **React** and integrated with **Gemini 
 - ✅ Maintains recent prompt history
 - ✅ Beautiful, clean UI using modern React techniques
 - ✅ Customizable and extendable for your own use
+-
+
 
 ## 📸 Screenshots
+- <img width="1430" alt="Screenshot 2025-04-21 at 15 54 49" src="https://github.com/user-attachments/assets/73be442e-0c95-48e2-802d-e4b07189064f" />
+<img width="899" alt="Screenshot 2025-04-21 at 16 03 13" src="https://github.com/user-attachments/assets/84dec8b8-536e-4b77-a2b5-bd5a434ec736" />
+<img width="1435" alt="Screenshot 2025-04-21 at 16 03 32" src="https://github.com/user-attachments/assets/132d809b-5fa0-43a6-9bcf-99cec7317708" />
 
-<img width="1430" alt="Screenshot 2025-04-21 at 15 54 49" src="https://github.com/user-attachments/assets/9b7d7ad5-bbcf-4740-b61f-ed2d9015c15a" />
-<img width="899" alt="Screenshot 2025-04-21 at 16 03 13" src="https://github.com/user-attachments/assets/3af8e4b2-ea30-4dc0-b817-d8e18ff1b55a" />
-<img width="1435" alt="Screenshot 2025-04-21 at 16 03 32" src="https://github.com/user-attachments/assets/45484e0a-3519-4d58-93e1-b3b068380e26" />
+
 
 ## ⚙️ Technologies Used
 
